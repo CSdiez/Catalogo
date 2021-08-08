@@ -192,8 +192,14 @@ body{
    padding: 0px 50px;
    width: 100%;
    }
-  .container{
-  	
-  }
+  .mockup{
+  	padding: 0px;
+   }
 
+  .select{
+  background-color: #F0E124;
+  color: #000;
+  width: 100%;
+  justify-content: center;
+  }
 }

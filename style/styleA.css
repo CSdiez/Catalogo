@@ -202,5 +202,22 @@ a{
   .p2{
     font-size: 25px
   }
+  .nav{
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  .nav a:hover{
+    justify-content: center;
+     width: 100%;
+  }
+  .select{
+  background-color: #F0E124;
+  color: #000;
+  width: 100%;
+  justify-content: center;
+  }
+
 }
 
