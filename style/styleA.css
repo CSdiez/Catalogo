@@ -184,12 +184,11 @@ text-align: center;
   text-decoration: none;
   color: #000;
 }
-a{
-    text-decoration: none;
-}
 
 @media all and (max-width: 800px){
-
+  *{
+    font-family: 'Bebas Neue', cursive;
+  }
   .menu{
     flex-direction: column;
     position: static;
